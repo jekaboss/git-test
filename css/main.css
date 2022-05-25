@@ -2,12 +2,26 @@ body{
    background-color: rgba(28, 164, 194, 0.558);
 }
 
-p{
+.header__p-p {
    width: 170px;
    height: 30px;
+   padding-top: 5px;
+      text-align: center;
    border: 2px solid #000;
-   text-align: center;
    border-radius: 10px;
    font-size: 24px;
    color: #fff;
+}
+.header__p {
+   width: 200px;
+   height: 107px;
+   color: blueviolet;
+   border: 2px solid #000;
+   margin: 15px;
+   padding: 15px;
+}
+
+h2 {
+   color: rgba(189, 49, 49, 0.657);
+   margin: 30px 30px;
 }
